@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+[YOUR_NAME];Full+Stack+Developer;Always+learning+new+things&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+ComBiCha;Full+Stack+Developer;Always+learning+new+things&center=true&size=30">
 </h1>
 
 <div align="center">
-  <img src="https://github.com/[USERNAME]/[USERNAME]/blob/main/assets/coding.gif" width="400">
+  <img src="https://github.com/ComBiCha/ComBiCha/blob/main/assets/coding.gif" width="400">
 </div>
 
 ## 🚀 About Me
@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning **Microservices & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C#, JavaScript, SQL Server**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **combichavn@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
 
 ## 🛠️ Tech Stack
@@ -48,29 +48,29 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ComBiCha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComBiCha&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME]&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ComBiCha&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[USERNAME]&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ComBiCha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[USERNAME]&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ComBiCha&theme=tokyo-night&bg_color=1a1b27&color=be90f2&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%"/>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight)](https://github.com/[USERNAME]/[REPO_NAME])
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=[USERNAME]&repo=[REPO_NAME]&theme=tokyonight)](https://github.com/[USERNAME]/[REPO_NAME])
+[![Sport Shop](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=22dh113106_TranHoThanhSang&theme=tokyonight)](https://github.com/ComBiCha/22dh113106_TranHoThanhSang)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=ecommerce-platform&theme=tokyonight)](https://github.com/ComBiCha/ecommerce-platform)
 
 </div>
 
@@ -78,10 +78,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/combichavn)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:combichavn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://combichavn.dev)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/combichavn)
 
 </div>
 
@@ -89,14 +89,14 @@
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/your-username)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/combichavn)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME]&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ComBiCha&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
