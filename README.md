@@ -11,9 +11,9 @@
 - 🌱 I'm currently learning **Microservices & Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **C#, JavaScript, SQL Server**
-- 📫 How to reach me: **combichavn@gmail.com**
+- 📫 How to reach me: **sangrk2004@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
-
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya?si=26902d8379c548c7)
 ## 🛠️ Tech Stack
 
 <div align="center">
