@@ -69,8 +69,8 @@
 
 <div align="center">
 
-[![Sport Shop](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=22dh113106_TranHoThanhSang&theme=tokyonight)](https://github.com/ComBiCha/22dh113106_TranHoThanhSang)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=ecommerce-platform&theme=tokyonight)](https://github.com/ComBiCha/ecommerce-platform)
+[![Merdi_Shop_Website]()](https://github.com/ComBiCha/E-commerce)
+[![Merdi_Shop_Mobile]()](https://github.com/ComBiCha/mobile_nang_cao)
 
 </div>
 
