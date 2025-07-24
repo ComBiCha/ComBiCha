@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.png" width="100%" alt="ComBiCha - Full Stack Developer" />
+  <img src="./assets/header.gif" width="100%" alt="ComBiCha - Full Stack Developer" />
 </div>
 
 <h1 align="center">
