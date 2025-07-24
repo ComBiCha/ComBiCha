@@ -14,11 +14,11 @@
 - 📫 How to reach me: **sangrk2004@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
 
-## 🎵 Currently Playing on Spotify
+## 🎵 What I'm Listening To
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya)
+[![Discord](https://lanyard.cnrad.dev/api/411731308188925962?theme=dark&bg=0d1117&animated=true)](https://discord.com/users/411731308188925962)
 
 </div>
 ## 🛠️ Tech Stack
