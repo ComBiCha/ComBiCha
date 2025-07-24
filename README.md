@@ -13,7 +13,8 @@
 - 💬 Ask me about **C#, JavaScript, SQL Server**
 - 📫 How to reach me: **sangrk2004@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya?si=26902d8379c548c7)
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya)
 ## 🛠️ Tech Stack
 
 <div align="center">
