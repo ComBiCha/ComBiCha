@@ -14,7 +14,7 @@
 - 📫 How to reach me: **sangrk2004@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
 
-## 🎵 What I'm Listening To
+## 🎵 What I'm Doing
 
 <div align="center">
 
