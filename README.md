@@ -14,7 +14,13 @@
 - 📫 How to reach me: **sangrk2004@gmail.com**
 - ⚡ Fun fact: **I debug code faster than I debug my life**
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya)
+## 🎵 Currently Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/316bdx74qmfbvswccfjmpcguumya)
+
+</div>
 ## 🛠️ Tech Stack
 
 <div align="center">
