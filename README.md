@@ -69,8 +69,8 @@
 
 <div align="center">
 
-[![Merdi_Shop_Website]()](https://github.com/ComBiCha/E-commerce)
-[![Merdi_Shop_Mobile]()](https://github.com/ComBiCha/mobile_nang_cao)
+[![Merdi_Shop_Website](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=E-commerce&theme=tokyonight)](https://github.com/ComBiCha/E-commerce)
+[![Merdi_Shop_Mobile](https://github-readme-stats.vercel.app/api/pin/?username=ComBiCha&repo=mobile_nang_cao&theme=tokyonight)](https://github.com/ComBiCha/mobile_nang_cao)
 
 </div>
 
